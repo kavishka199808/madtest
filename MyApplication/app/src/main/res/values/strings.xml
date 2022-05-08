@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="home">Driver Manegement</string>
+    <string name="username">Driver Name</string>
+    <string name="password">Login Password</string>
+    <string name="login">View Drivers</string>
+    <string name="register">ADD Driver</string>
+    <string name="add">ADD</string>
+    <string name="updateprofile">UPDATE Driver</string>
+    <string name="ProfileManagement">Driver Management</string>
+    <string name="dateofbirth">Driver NIC</string>
+    <string name="Male">Male</string>
+    <string name="Female">Female</string>
+    <string name="editProfile">All Drivers</string>
+    <string name="search">SEARCH</string>
+    <string name="edit">EDIT</string>
+    <string name="delete">DELETE</string>
+    <string name="gender">Gender</string>
+    <string name="driverReport">Driver Salary Reports</string>
+    <string name="driverperformance">Assign Drivers</string>
+    <string name="AddDriver">Add Driver</string>
+    <string name="contactumber">Countact Number</string>
+    <string name="driverReports">DriverReports</string>
+    <string name="sallary">Amount</string>
+</resources>
